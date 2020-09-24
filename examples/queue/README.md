@@ -1,0 +1,6 @@
+# queue
+
+```
+$ go build
+$ ./queue
+```

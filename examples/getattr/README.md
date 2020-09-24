@@ -1,0 +1,6 @@
+# getattr
+
+```
+$ go build
+$ ./getattr
+```

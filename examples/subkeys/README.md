@@ -1,0 +1,6 @@
+# subkeys
+
+```
+$ go build
+$ ./subkeys
+```

@@ -1,0 +1,6 @@
+# getsubkey
+
+```
+$ go build
+$ ./getsubkey
+```
